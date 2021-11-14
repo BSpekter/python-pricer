@@ -2,7 +2,7 @@ name: pricer-tests
 on: [push, pull_request]
 jobs:
   build:
-    name: Check styling
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
