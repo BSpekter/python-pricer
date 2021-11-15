@@ -7,7 +7,7 @@ sys.path.append('../')
 import datetime
 
 class discount_factors_curve(object):
-    def __init__(self)
+    def __init__(self):
         
 #     @staticmethod
     def discount_factors_array(self, dates):
