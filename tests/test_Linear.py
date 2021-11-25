@@ -1,4 +1,4 @@
-from homework1.Linear import Linear
+from src.Linear import *
 import numpy as np
 import matplotlib.pyplot as plt
 
